@@ -2,16 +2,18 @@
 
 # Azure End-To-End project 
 
-On-premise To Azure Data Warehouse
+Project 1 - Olympic Data Pipeline Creation
 
-Part 1: Environment Setup 
+Project 2 - On-premise To Azure Data Warehouse
 
-Part 2: Dataset Overview
+~ Part 1: Environment Setup 
 
-Part 3: Data Ingestion 
+~ Part 2: Dataset Overview
 
-Part 4: Data Transformation 
+~ Part 3: Data Ingestion 
 
-Part 5: Data Loading
+~ Part 4: Data Transformation 
+
+~ Part 5: Data Loading
 
 
